@@ -1,0 +1,4 @@
+repository "Craft table project@ssl://wechat_os_qy01apwgcvq-rv0msr1o9pnig@sh01-plasticscm.unity.cn:8787"
+  path "/"
+    br "/main"
+    co "/main"
